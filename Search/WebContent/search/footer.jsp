@@ -1,5 +1,5 @@
 <nav class="navbar navbar-default navbar-fixed-bottom">
-Created By Pooja Vilayatkar.
+Created By Chittaksh Khadse.
 </nav>
 <link rel='stylesheet' type='text/css' href='../MyStyle.css' />
 <!-- <link rel='stylesheet' href='../bootstrap/Fancy.css' /> -->
