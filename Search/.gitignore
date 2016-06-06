@@ -1,0 +1,43 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+
+!src
+!src/
+!src/*
+!src/*/
+!src/*/*
+!src/*/*/*
+!src/*/*/*/*
+!WebContent
+!WebContent/*
+!WebContent/*/*
+!WebContent/*/*/*
+!WebContent/*/*/*/*
+!scripts
+!scripts/*
+!Screenshots
+!Screenshots/*
+!pom.xml
+
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+target/**
+test-output/**
