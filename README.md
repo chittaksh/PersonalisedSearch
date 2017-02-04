@@ -1,3 +1,3 @@
 # PersonalisedSearch
 
-This project stores personalised searches and results visited during them respectively.
+This project stores personalized searches and results visited during them respectively.
